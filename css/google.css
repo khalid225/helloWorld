@@ -1,0 +1,21 @@
+#pix{margin:100 0 0 350;}
+#ser{position:relative; margin:0 0 0 500;}
+#table li{list-style:none;
+	display:inline;
+	margin:0 0 0 0;
+	padding:5 10 5 10;
+	color:#3CF;}
+#table{margin:10 0 3 0;}
+#sin{float:right;}
+#resource{color:#90F;}
+h4{text-align:center;}
+a{color:#09F;}
+#japan{display:inline;
+	list-style:none;
+	margin:0 20 0 20;
+	color:#90F;}
+#text {width:700px;
+	padding:10 10 10 10;}
+#search {margin:0 0 0 700px;}
+h2 {text-align:ceter;
+	color:#0F0;}

@@ -1,0 +1,39 @@
+.clear{clear:both}
+#wrapper{border:1px solid;
+         width:1000px;
+		 height:auto;
+		 margin: 0 auto 0 auto;
+		 }
+#header{border:1px solid;
+        width:1000px;
+		height:200px;
+		}
+#nav{border:1px solid;
+        width:1000px;}
+  #nav img{margin: 10 0 10 10; 
+        float:left;}
+  #nav form{float:right; margin:30 10 0 0;}
+  #search{padding:5 0 5 0;  background-color: ff4848; color:fff;}
+  #submit{padding:5 5 5 5; border-radius: 0 25 25 0; background-color: 00C; color:fff;}
+  #submit:hover{background-color:0F0; color:ff4848;}
+#main_section{border:1px solid;
+        width:696px;
+		height:695px;
+		float:left
+		}		
+#aside{border:1px solid;
+        width:300px;
+		height:695px;		
+		float:left}
+.border{border:1px solid;
+        width:696px;
+		height:300px;
+		}
+.section{border:1px solid;
+        width:696px;
+		height:391px;
+		}		
+#footer{border:1px solid;
+        width:1000px;
+		height:100px;
+		}		
